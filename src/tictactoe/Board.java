@@ -10,6 +10,9 @@ package tictactoe;
  * Se il numero di X è uguale al numero di O,
  * il prossimo giocatore è il giocatore X;
  * altrimenti il prossimo giocatore è O.
+ * 
+ * 
+ * COMMENTO
  */
 public class Board {
     /**
